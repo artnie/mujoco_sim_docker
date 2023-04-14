@@ -47,7 +47,7 @@ services:
     volumes:
       - ./images/mujoco-ws-image/src:/home/mujoco_ws/src:rw
     entrypoint: /entrypoint.bash
-    command: sh -c "sleep 1 && roslaunch tiago_mujoco tiago_bringup.launch"
+    command: sh -c "sleep 1 && roslaunch tiago_mujoco tiago_dual_bringup.launch"
     depends_on:
       - ros-core-service
 
