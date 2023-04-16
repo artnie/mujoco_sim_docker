@@ -1,0 +1,13 @@
+2023-04-16 08:01:17 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-16 08:01:17 [INFO] <KERNEL> Parsing connection file /home/jovyan/.local/share/jupyter/runtime/kernel-2bf0fdb2-bc8c-4027-b7ab-22462f9955ec.json
+2023-04-16 08:01:17 [INFO] <MAC> Starting message authentification
+2023-04-16 08:01:17 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-16 08:01:17 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:40333
+2023-04-16 08:01:17 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:47689
+2023-04-16 08:01:17 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:46685
+2023-04-16 08:01:17 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:51363
+2023-04-16 08:01:17 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:53873
+2023-04-16 08:01:17 [INFO] <HISTORY> Starting history
+2023-04-16 08:01:17 [INFO] <HB-CHANNEL> Starting thread
+2023-04-16 08:01:17 [INFO] <KERNEL> Loading CLHS map
+2023-04-16 08:01:35 [INFO] <KERNEL> Handling interrupt_request message

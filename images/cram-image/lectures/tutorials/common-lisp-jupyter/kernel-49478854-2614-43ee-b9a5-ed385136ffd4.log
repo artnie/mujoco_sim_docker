@@ -1,0 +1,45 @@
+2023-04-14 13:57:40 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-14 13:57:40 [INFO] <KERNEL> Parsing connection file /root/.local/share/jupyter/runtime/kernel-49478854-2614-43ee-b9a5-ed385136ffd4.json
+2023-04-14 13:57:40 [INFO] <MAC> Starting message authentification
+2023-04-14 13:57:40 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-14 13:57:40 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:60931
+2023-04-14 13:57:40 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:51859
+2023-04-14 13:57:40 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:54043
+2023-04-14 13:57:40 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:41199
+2023-04-14 13:57:40 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:59957
+2023-04-14 13:57:40 [INFO] <HISTORY> Starting history
+2023-04-14 13:57:40 [INFO] <HB-CHANNEL> Starting thread
+2023-04-14 13:57:40 [INFO] <KERNEL> Loading CLHS map
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:57:40 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:57:41 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:57:48 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:58:16 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:58:28 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:28 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:28 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:28 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:32 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:58:38 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:38 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:38 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:38 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 13:58:42 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:58:44 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 13:59:05 [INFO] <KERNEL> Handling execute_request message
+2023-04-14 14:00:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 14:00:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 14:00:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-14 14:00:13 [INFO] <KERNEL> Handling debug_request/debugInfo message

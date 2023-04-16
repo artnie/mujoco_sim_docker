@@ -1,0 +1,65 @@
+2023-02-28 11:05:29 [INFO] <KERNEL> Starting common-lisp kernel
+2023-02-28 11:05:29 [INFO] <KERNEL> Parsing connection file /root/.local/share/jupyter/runtime/kernel-687c0b94-b48c-409c-b992-7cb38e089228.json
+2023-02-28 11:05:29 [INFO] <MAC> Starting message authentification
+2023-02-28 11:05:29 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-02-28 11:05:29 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:49281
+2023-02-28 11:05:29 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:56807
+2023-02-28 11:05:29 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:33525
+2023-02-28 11:05:29 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:37459
+2023-02-28 11:05:29 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:36639
+2023-02-28 11:05:29 [INFO] <HISTORY> Starting history
+2023-02-28 11:05:29 [INFO] <HB-CHANNEL> Starting thread
+2023-02-28 11:05:29 [INFO] <KERNEL> Loading CLHS map
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:05:29 [INFO] <KERNEL> Handling kernel_info_request message
+2023-02-28 11:07:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 11:07:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 11:07:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 11:07:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 11:07:14 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 11:07:31 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 11:08:02 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 11:31:30 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 11:31:33 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 11:31:50 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 12:49:03 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:29:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:29:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:29:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:29:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:29:09 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:29:11 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:29:13 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:29:36 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:35:47 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:35:48 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:35:48 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:35:48 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:36:57 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:36:57 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:36:57 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:36:57 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:01 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:52 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:52 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:52 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:40:52 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 13:41:04 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:41:17 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:41:39 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 13:42:49 [INFO] <KERNEL> Handling execute_request message
+2023-02-28 15:30:06 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 15:30:06 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 15:30:06 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 15:30:06 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 15:30:07 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-02-28 15:30:07 [INFO] <KERNEL> Handling debug_request/debugInfo message

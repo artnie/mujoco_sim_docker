@@ -109,3 +109,31 @@ services:
       ]
     depends_on:
       - mujoco-ws-service
+  cram-service:          
+    tty: true
+    image: cram:${ROS_DISTRO}
+    build:
+      context: ./images/cram-image/
+      dockerfile: Dockerfile
+      args:
+        ROS_DISTRO: ${ROS_DISTRO}
+    container_name: cram-container
+    hostname: cram
+    networks:
+      ros-network:
+        ipv4_address: ${ROS_IP_CRAM}
+    ports: 
+      - 8888:8888
+    environment:
+      - HOST_IP=${HOST_IP}
+      - ROS_MASTER_URI=http://ros-core:11311
+      - ROS_IP=${ROS_IP_CRAM}
+      - DISPLAY
+      - QT_X11_NO_MITSHM=1 #fix some QT bugs
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      # - ./images/cram-image/src:/home/cram_ws/src:rw
+      - ./images/cram-image/lectures:/home/jovyan/lectures
+    command: sh -c "roslaunch cram_projection_demos household_pr2.launch & jupyter lab --port=8888 --no-browser --ip=0.0.0.0 --allow-root"
+    depends_on:
+      - ros-core-service
