@@ -1,3 +1,3 @@
 #!/bin/bash
-source /home/mujoco_ws/devel/setup.bash
+source /home/giskard_ws/devel/setup.bash
 exec "$@"

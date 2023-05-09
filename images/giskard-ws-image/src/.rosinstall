@@ -1,8 +1,4 @@
 - git: 
-    local-name: giskard/qpoases
-    uri: git@github.com:SemRoCo/qpOASES.git
-    version: noetic
-- git: 
     local-name: giskard/giskardpy
     uri: git@github.com:HoangGiang93/giskardpy.git
     version: AddNewRobots
