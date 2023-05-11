@@ -1,0 +1,30 @@
+2023-04-12 09:04:46 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-12 09:04:46 [INFO] <KERNEL> Parsing connection file /home/jovyan/.local/share/jupyter/runtime/kernel-31b3d88c-f7d2-43ed-87a2-ec962b4b33d8.json
+2023-04-12 09:04:46 [INFO] <MAC> Starting message authentification
+2023-04-12 09:04:46 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-12 09:04:46 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:60623
+2023-04-12 09:04:46 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:41117
+2023-04-12 09:04:46 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:41325
+2023-04-12 09:04:46 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:47973
+2023-04-12 09:04:46 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:52123
+2023-04-12 09:04:46 [INFO] <HISTORY> Starting history
+2023-04-12 09:04:46 [INFO] <HB-CHANNEL> Starting thread
+2023-04-12 09:04:46 [INFO] <KERNEL> Loading CLHS map
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:07 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:08 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:08 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:08 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:08:24 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 09:08:24 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:09:35 [INFO] <KERNEL> Handling interrupt_request message

@@ -1,0 +1,27 @@
+2023-04-12 09:22:43 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-12 09:22:43 [INFO] <KERNEL> Parsing connection file /home/jovyan/.local/share/jupyter/runtime/kernel-67c286ce-456c-4525-9cb5-51b811bb45c2.json
+2023-04-12 09:22:44 [INFO] <MAC> Starting message authentification
+2023-04-12 09:22:44 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-12 09:22:44 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:38693
+2023-04-12 09:22:44 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:57117
+2023-04-12 09:22:44 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:35261
+2023-04-12 09:22:44 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:36511
+2023-04-12 09:22:44 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:49935
+2023-04-12 09:22:44 [INFO] <HISTORY> Starting history
+2023-04-12 09:22:44 [INFO] <HB-CHANNEL> Starting thread
+2023-04-12 09:22:44 [INFO] <KERNEL> Loading CLHS map
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:22:44 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:23:12 [INFO] <KERNEL> Handling interrupt_request message

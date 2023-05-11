@@ -1,0 +1,32 @@
+2023-04-12 09:49:25 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-12 09:49:25 [INFO] <KERNEL> Parsing connection file /home/jovyan/.local/share/jupyter/runtime/kernel-2e99f84c-93ab-4614-8b61-bedf93f688cf.json
+2023-04-12 09:49:25 [INFO] <MAC> Starting message authentification
+2023-04-12 09:49:25 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-12 09:49:25 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:55975
+2023-04-12 09:49:25 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:35835
+2023-04-12 09:49:25 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:55671
+2023-04-12 09:49:25 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:59219
+2023-04-12 09:49:25 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:46593
+2023-04-12 09:49:25 [INFO] <HISTORY> Starting history
+2023-04-12 09:49:25 [INFO] <HB-CHANNEL> Starting thread
+2023-04-12 09:49:25 [INFO] <KERNEL> Loading CLHS map
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:49:26 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 09:49:28 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 09:49:32 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 15:03:33 [INFO] <KERNEL> Handling interrupt_request message
+2023-04-12 15:03:34 [INFO] <KERNEL> Handling shutdown_request message
+2023-04-12 15:03:34 [INFO] <KERNEL> Shell thread exiting normally.
+2023-04-12 15:03:34 [INFO] <KERNEL> Stopping common-lisp kernel
+2023-04-12 15:03:34 [INFO] <HB-CHANNEL> Stopping thread
+2023-04-12 15:03:34 [INFO] <HB-CHANNEL> Stopping channel
+2023-04-12 15:03:34 [INFO] <IOPUB-CHANNEL> Stopping channel
+2023-04-12 15:03:34 [INFO] <SHELL-CHANNEL> Stopping channel
+2023-04-12 15:03:34 [INFO] <STDIN-CHANNEL> Stopping channel
+2023-04-12 15:03:34 [INFO] <CONTROL-CHANNEL> Stopping channel
+2023-04-12 15:03:34 [INFO] <MAC> Stopping message authentification
+2023-04-12 15:03:34 [INFO] <HISTORY> Stopping history

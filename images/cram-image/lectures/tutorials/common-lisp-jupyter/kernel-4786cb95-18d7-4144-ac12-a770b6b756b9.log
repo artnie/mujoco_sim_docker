@@ -1,0 +1,53 @@
+2023-04-12 15:03:46 [INFO] <KERNEL> Starting common-lisp kernel
+2023-04-12 15:03:46 [INFO] <KERNEL> Parsing connection file /home/jovyan/.local/share/jupyter/runtime/kernel-4786cb95-18d7-4144-ac12-a770b6b756b9.json
+2023-04-12 15:03:46 [INFO] <MAC> Starting message authentification
+2023-04-12 15:03:46 [INFO] <MAC> Using hmac with sha256 digest for message signing.
+2023-04-12 15:03:46 [INFO] <HB-CHANNEL> Starting channel on tcp://127.0.0.1:48765
+2023-04-12 15:03:46 [INFO] <IOPUB-CHANNEL> Starting channel on tcp://127.0.0.1:39087
+2023-04-12 15:03:46 [INFO] <SHELL-CHANNEL> Starting channel on tcp://127.0.0.1:55193
+2023-04-12 15:03:46 [INFO] <STDIN-CHANNEL> Starting channel on tcp://127.0.0.1:47009
+2023-04-12 15:03:46 [INFO] <CONTROL-CHANNEL> Starting channel on tcp://127.0.0.1:60801
+2023-04-12 15:03:46 [INFO] <HISTORY> Starting history
+2023-04-12 15:03:46 [INFO] <HB-CHANNEL> Starting thread
+2023-04-12 15:03:46 [INFO] <KERNEL> Loading CLHS map
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling kernel_info_request message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 15:03:46 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 15:03:51 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 15:04:07 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 20:59:32 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 20:59:32 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 20:59:33 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 20:59:33 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:00:53 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:00:53 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:00:53 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:00:53 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:00:56 [INFO] <KERNEL> Handling execute_request message
+2023-04-12 21:05:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:05:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:05:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:05:13 [INFO] <KERNEL> Handling debug_request/debugInfo message
+2023-04-12 21:45:29 [INFO] <KERNEL> Handling interrupt_request message
+2023-04-12 21:45:30 [INFO] <KERNEL> Handling shutdown_request message
+2023-04-12 21:45:30 [INFO] <KERNEL> Shell thread exiting normally.
+2023-04-12 21:45:30 [INFO] <KERNEL> Stopping common-lisp kernel
+2023-04-12 21:45:30 [INFO] <HB-CHANNEL> Stopping thread
+2023-04-12 21:45:30 [INFO] <HB-CHANNEL> Stopping channel
+2023-04-12 21:45:30 [INFO] <IOPUB-CHANNEL> Stopping channel
+2023-04-12 21:45:30 [INFO] <SHELL-CHANNEL> Stopping channel
+2023-04-12 21:45:30 [INFO] <STDIN-CHANNEL> Stopping channel
+2023-04-12 21:45:30 [INFO] <CONTROL-CHANNEL> Stopping channel
+2023-04-12 21:45:30 [INFO] <MAC> Stopping message authentification
+2023-04-12 21:45:30 [INFO] <HISTORY> Stopping history
